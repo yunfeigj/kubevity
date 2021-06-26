@@ -17,7 +17,7 @@ limitations under the License.
 package main
 
 import (
-	"gitee.com/YunFeiGuoJi/kubevity/cmd"
+	"github.com/yunfeigj/kubevity/cmd"
 )
 
 // Using a separate entry-point can reduce the size of the binary file
