@@ -1,4 +1,3 @@
-module gitee.com/YunFeiGuoJi/kubevity
+module github.com/yunfeigj/kubevity
 
 go 1.15
-
